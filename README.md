@@ -22,7 +22,9 @@ Current build status
 <table><tr>
     <td>All platforms:</td>
     <td>
-      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+      <a href="https://github.com/conda-forge/pcmdi_metrics-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/pcmdi_metrics-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      </a>
     </td>
   </tr>
 </table>
@@ -151,7 +153,4 @@ Feedstock Maintainers
 * [@gleckler1](https://github.com/gleckler1/)
 * [@kristinchang3](https://github.com/kristinchang3/)
 * [@lee1043](https://github.com/lee1043/)
-
-
-<!-- dummy commit to enable rerendering -->
 

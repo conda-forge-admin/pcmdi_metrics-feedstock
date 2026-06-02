@@ -37,6 +37,8 @@ requirements:
     - cmocean
     - colorcet
     - eofs >=2.0.0
+    - seaborn >=0.12.2
+    - enso_metrics >=2.0.0
     - jupyterlab
     - nc-time-axis
     - numdifftools
